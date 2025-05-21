@@ -9,7 +9,6 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
-    margin-top: 152px;
     margin-right: 0;
     margin-left: 340px;
   }
@@ -21,9 +20,6 @@
   }
 
   .u-section-1 .u-text-1 {
-    width: auto;
-    margin-top: 96px;
-    margin-bottom: 29px;
     margin-left: 120px;
   }
 }
@@ -34,9 +30,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 0;
     margin-left: 0;
-    margin-bottom: 9px;
   }
 }
 
@@ -46,43 +40,28 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 1px;
-    margin-bottom: 1px;
+    margin-top: 60px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 134px;
+  min-height: 95px;
 }
 
 .u-section-2 .u-social-icons-1 {
   white-space: nowrap;
   height: 44px;
-  width: 120px;
+  width: 174px;
   min-width: 68px;
-  margin: 71px auto 20px;
+  margin: 26px auto;
 }
 
 .u-section-2 .u-icon-1 {
   height: 0;
-  color: rgb(47, 102, 254) !important;
 }
 
 .u-section-2 .u-icon-2 {
   height: 32px;
 }
 
-@media (max-width: 1199px) {
-  .u-section-2 .u-social-icons-1 {
-    min-height: 16px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 64px;
-  }
-
-  .u-section-2 .u-social-icons-1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
+.u-section-2 .u-icon-3 {
+  height: 0;
 }

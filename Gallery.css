@@ -91,28 +91,25 @@
     height: 1007px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 195px;
+  min-height: 99px;
 }
 
 .u-section-2 .u-social-icons-1 {
   white-space: nowrap;
   height: 44px;
-  width: 120px;
+  width: 174px;
   min-width: 68px;
-  margin: 131px auto 20px;
+  margin: 30px auto 25px;
 }
 
 .u-section-2 .u-icon-1 {
   height: 0;
-  color: rgb(47, 102, 254) !important;
 }
 
 .u-section-2 .u-icon-2 {
   height: 32px;
 }
 
-@media (max-width: 1199px) {
-  .u-section-2 .u-social-icons-1 {
-    min-height: 16px;
-  }
+.u-section-2 .u-icon-3 {
+  height: 0;
 }
