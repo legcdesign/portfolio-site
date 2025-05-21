@@ -25,6 +25,8 @@
 @media (max-width: 991px) {
   .u-section-1 .u-custom-html-1 {
     width: 720px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -35,6 +37,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1498px;
+  }
+
   .u-section-1 .u-custom-html-1 {
     width: 340px;
   }
