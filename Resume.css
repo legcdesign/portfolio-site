@@ -115,7 +115,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1658px;
+    min-height: 1660px;
   }
 
   .u-section-1 .u-custom-html-1 {
@@ -132,7 +132,9 @@
   }
 
   .u-section-1 .u-btn-1 {
+    margin-top: -1673px;
     margin-right: 0;
+    margin-bottom: 60px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 75px;
