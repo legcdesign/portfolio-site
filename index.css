@@ -36,20 +36,19 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 344px;
+    min-height: 349px;
   }
 
   .u-section-1 .u-video-1 {
     width: 540px;
     height: 304px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin: 25px 0 20px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 231px;
+    min-height: 236px;
   }
 
   .u-section-1 .u-video-1 {
